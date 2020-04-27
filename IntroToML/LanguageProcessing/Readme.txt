@@ -14,16 +14,18 @@ as it applies to language processing by taking labs that will enable you
 to extract entities from text, and perform sentiment and syntactic analysis 
 as well as use the Speech to Text API for transcription.
 
+[Machine Learning]
+
 = QUEST OUTLINE =
 
-HANDS-ON LAB
+HANDS-ON LAB   [Completed]
 1. AI Platform: Qwik Start
    In this lab you train and deploy a TensorFlow model to AI Platform for serving (prediction). 
    Watch these short videos Harness the Power of Machine Learning with AI Platform and AI Platform: 
    Qwik Start - Qwiklabs Preview.
    [1 hour  Introductory  1 Credit]
 
-HANDS-ON LAB
+HANDS-ON LAB   [Completed]
 2. Google Cloud Speech API: Qwik Start
    The Google Cloud Speech API integrates speech recognition into dev apps; 
    you can now send audio/receive a text transcription. 
@@ -31,14 +33,14 @@ HANDS-ON LAB
    Qwik Start - Qwiklabs Preview
    [30 minutes  Introductory  1 Credit]
 
-HANDS-ON LAB
+HANDS-ON LAB   [Completed]
 3. Cloud Natural Language API: Qwik Start
    The Cloud Natural Language API lets you extract entities and perform sentiment and syntactic analysis on text. 
    Watch these short videos Gain Valuable Insights from Text with Cloud Natural Language and Cloud Natural Language: 
    Qwik Start - Qwiklabs Preview.
    [40 minutes  Introductory  1 Credit]
 
-HANDS-ON LAB
+HANDS-ON LAB   [Completed]
 4. Entity and Sentiment Analysis with the Natural Language API
    The Cloud Natural Language API lets you extract entities, and perform sentiment and 
    syntactic analysis on a block of text. 
@@ -46,7 +48,7 @@ HANDS-ON LAB
    from text using the Cloud Natural Language API.
    [40 minutes  Fundamental  5 Credits]
 
-HANDS-ON LAB
+HANDS-ON LAB   [Completed]
 5. Speech to Text Transcription with the Cloud Speech API
    The Cloud Speech API lets you do speech to text transcription from audio files in over 80 languages. 
    In this hands-on lab you’ll record your own audio file and send it to the Speech API for transcription.
