@@ -2,6 +2,8 @@
 
 === BASELINE: DATA, ML, AI ===
 
+https://google.qwiklabs.com/quests/34
+
 [Introductory  6 Steps  5 hours  10 Credits]
 
 Big data, machine learning, and artificial intelligence are today’s hot computing topics, 
